@@ -1,0 +1,14 @@
+{
+  "name": "advay-link",
+  "version": "1.0.0",
+  "description": "URL shortener with Payhip store discovery",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
